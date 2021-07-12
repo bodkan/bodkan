@@ -3,7 +3,7 @@
 
 My name is Martin and I'm a researcher at the [Lundbeck Centre for GeoGenetics](https://globe.ku.dk/research/geogenetics/), which is part of the [GLOBE Institute](https://globe.ku.dk/) at the University of Copenhagen.
 
-My background is in ancient DNA genomics. I did my PhD [Max Planck Institute for Evolutionary Anthropology](https://www.eva.mpg.de/genetics/index/) in Leipzig where I worked on the evolutionary histories of modern humans, Neanderthals, and Denisovans, and interactions between them. My PhD advisors were [Janet Kelso](https://en.wikipedia.org/wiki/Janet_Kelso) and [Svante Pääbo](https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo).
+My background is in ancient DNA genomics. I did my PhD [Max Planck Institute for Evolutionary Anthropology](https://www.eva.mpg.de/genetics/index/) in Leipzig where I worked on the evolutionary histories of modern humans, Neanderthals, and Denisovans. My PhD advisors were [Janet Kelso](https://en.wikipedia.org/wiki/Janet_Kelso) and [Svante Pääbo](https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo).
 
 In my current job, I’m working on spatiotemporal methods for population genetics, ecology and evolution. The most recent outcome of this work is an R package called [_slendr_](https://github.com/bodkan/slendr) which provides an easy to use framework for building programmable population genetic simulations on a real geographic landscape without any geospatial know-how.
 
