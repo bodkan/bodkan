@@ -14,4 +14,4 @@ I'm also the developer of [_admixr_](https://github.com/bodkan/admixr), an R pac
 
 If you would like to get in touch, send me an email at contact@bodkan.net.
 
-You can also find me on Twitter [@dr_bodkan](https://twitter.com/dr_bodkan), although I haven't been very active there, recently.
+You can also find me on Twitter [@dr_bodkan](https://twitter.com/dr_bodkan).
