@@ -1,8 +1,10 @@
 ## `> whoami`
 
-I did my PhD in ancient DNA genomics at the [Max Planck Institute for Evolutionary Anthropology](https://www.eva.mpg.de/genetics/index/) in Leipzig where I worked on the evolutionary histories of anatomically modern humans, Neanderthals, and Denisovans (and also extinct elephants!).
+I did my PhD in ancient DNA genomics at the [Max Planck Institute for Evolutionary Anthropology](https://www.eva.mpg.de/genetics/index/) in Leipzig where I studied the evolutionary histories of anatomically modern humans, Neanderthals, and Denisovans (but also extinct elephants!).
 
-I'm currently working at the [GLOBE Institute](https://globe.ku.dk) at the University of Copenhagen where I'm building new tools for spatial data analysis and population genomics simulations. An important theme in my work is reproducibility and designing intuitive user-programmable interfaces to complex computational methods (both of which go hand in hand).
+I'm currently working at the [GLOBE Institute](https://globe.ku.dk) at the University of Copenhagen where I'm building new tools for spatial data analysis and population genomics simulations. The underlying themes of my work are reproducibility and design of intuitive user-programmable interfaces to complex computational methods: I enjoy building tools that help experts work on novel questions more efficiently while lowering the barrier of entry to novice users.
+
+-----
 
 The most recent outcome of my work is an R package [_slendr_](https://github.com/bodkan/slendr), which provides a framework for building programmable population genetic simulations on real geographic landscapes, as well as for simulation of traditional non-spatial population genetic models, entirely in R. You can read more about _slendr_ in [this paper](https://www.biorxiv.org/content/10.1101/2022.03.20.485041v1).
 
