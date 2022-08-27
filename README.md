@@ -6,9 +6,9 @@ I'm currently working at the [GLOBE Institute](https://globe.ku.dk) at the Unive
 
 -----
 
-The most recent outcome of my work is an R package [_slendr_](https://github.com/bodkan/slendr), which provides a framework for building programmable population genetic simulations on real geographic landscapes, as well as for simulation of traditional non-spatial population genetic models, entirely in R. You can read more about _slendr_ in [this paper](https://www.biorxiv.org/content/10.1101/2022.03.20.485041v1).
+The most recent outcome of my work is an R package [_slendr_](https://github.com/bodkan/slendr), ([CRAN](https://cran.r-project.org/package=slendr)) which provides a framework for building programmable population genetic simulations on real geographic landscapes, as well as for simulation of traditional non-spatial population genetic models, entirely in R. You can read more about _slendr_ in [this paper](https://www.biorxiv.org/content/10.1101/2022.03.20.485041v1).
 
-I'm also the developer of [_admixr_](https://github.com/bodkan/admixr), an R package for automated, reproducible analyses using the [ADMIXTOOLS](https://github.com/DReichLab/AdmixTools) software. This package has already been used in [several dozen](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13286994334855947290) of publications and has thousands of users, many of which have had little to no experience with data analysis and programming.
+I'm also the developer of [_admixr_](https://github.com/bodkan/admixr) ([CRAN](https://cran.r-project.org/package=admixr)), an R package for automated, reproducible analyses using the [ADMIXTOOLS](https://github.com/DReichLab/AdmixTools) software. This package has already been used in [several dozen](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13286994334855947290) of publications and has thousands of users, many of which have had little to no experience with data analysis and programming.
 
 -----
 
