@@ -14,4 +14,4 @@ I'm also the developer of [_admixr_](https://github.com/bodkan/admixr) ([CRAN](h
 
 If you would like to get in touch, send me an email at contact@bodkan.net.
 
-You can also find me on Twitter [@dr_bodkan](https://twitter.com/dr_bodkan).
+You can also find me on Twitter [@fleventy5](https://twitter.com/fleventy5).
